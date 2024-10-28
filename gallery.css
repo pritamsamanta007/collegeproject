@@ -1,0 +1,143 @@
+.heading{
+    color:#035f8a;
+    font-weight: 200;
+    letter-spacing: 3;
+    text-align: center;
+    text-transform: capitalize;
+    /* text-decoration:  #BF2EF0 underline; */
+}
+
+
+b{
+    font-size: larger;
+}
+
+
+ /* .golden{
+    height: 75px;
+    width: 500px;
+    display: inline;
+    color:white;
+    text-decoration: none;
+    justify-content: space-evenly;
+    background-color:rgb(109, 134, 188);
+    letter-spacing: 3px; 
+ }
+  */
+.rowone{
+    display: flex;
+    justify-content: center;
+    /* overflow: hidden; */
+}
+
+.picone{
+    height:250px;
+    width:400px;
+    border: 5px solid white;
+   
+}
+
+.pictwo{
+    height:250px;
+    width:400px;
+    border: 5px solid white;
+}
+
+.picthree{
+    
+    height:250px;
+    width:400px;
+    border: 5px solid white;
+}
+.rowtwo{
+    display: flex;
+    justify-content: center;
+}
+
+.picfour{
+    
+    height:250px;
+    width:400px;
+    border: 5px solid white;
+}
+
+.picsix{
+    height:250px;
+    width:400px;
+    border: 5px solid white;
+}
+
+
+.picseven{
+  
+    height:250px;
+    width:400px;
+    border: 5px solid white;
+}
+
+.rowthree{
+    display: flex;
+    justify-content: center;
+}
+
+.piceight{
+    /* background-size:cover;
+    height:250px;
+    width:400px;
+    background-image:url("college8.jpeg") ; */
+    border: 5px solid white;
+}
+.picnine{
+    /* background-size:cover;
+    height:250px;
+    width:400px;
+    background-image:url("college9.jpg") ; */
+    border: 5px solid white;
+}
+.picten{
+    /* background-size:cover;
+    height:250px;
+    width:400px;
+    background-image:url("college10.jpg") ; */
+    border: 5px solid white;
+}
+
+.rowfour{
+    display: flex;
+    justify-content: center;
+}
+
+.piceleven{
+    /* background-size:cover;
+    height:250px;
+    width:400px;
+    background-image:url("college11.jpg") ; */
+    border: 5px solid white;
+}
+.pictweleve{
+    /* background-size:cover;
+    height:250px;
+    width:400px;
+    background-image:url("college12.jpg") ; */
+    border: 5px solid white;
+}
+
+.picthirteen{
+   border: 5px solid white;
+    
+}
+
+.rowfive{
+    display: flex;
+    justify-content: center;
+}
+
+.picfourteen{
+    border: 5px solid white;
+}
+.picfifteen{
+    border: 5px solid white;
+}
+.picsixteen{
+    border: 5px solid white;
+}

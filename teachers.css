@@ -1,0 +1,174 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.title{
+    color:white;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 3;
+    font-weight: 200;
+    align-items: center;
+}
+.heading{
+    background-color: #EB8317;
+    height:60px;
+    justify-content: center;
+    
+}
+.topic{
+    background-color: #10375C;
+    height:10px;
+    
+
+}
+.CST{
+    color:chartreuse;
+    text-align: center;
+    letter-spacing: 3;
+    font-weight:200;
+    text-transform: capitalize;
+}
+.computer{
+    background-color: cadetblue;
+    height:30px;
+    justify-content: center;
+}
+.compteach{
+    background-color: bisque;
+    z-index: 1;
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+#samanta{
+   margin-right: 20px;
+   text-align: center;
+   font-size: 24px;
+    
+}
+#ghoshal{
+    margin-right: 50px;
+    text-align: center;
+    font-size: 24px;
+    
+
+}
+
+.CFS{
+    color:chartreuse;
+    text-align: center;
+    letter-spacing: 3;
+    font-weight:200;
+    text-transform: capitalize;
+}
+.hacking{
+    background-color: cadetblue;
+    height:30px;
+    justify-content: center;
+    
+}
+.cyberteach{
+    
+    background-color: bisque;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#goswami{
+    margin-right: 20px;
+    text-align: center;
+    font-size: 24px;
+}
+#Ghosh{
+    margin-right:50px;
+    text-align: center;
+    font-size: 24px;
+}
+.Electrical{
+    color:chartreuse;
+    text-align: center;
+    letter-spacing: 3;
+    font-weight:200;
+    text-transform: capitalize;
+}
+.electricity{
+    background-color: cadetblue;
+    justify-content: center;
+    height:30px;
+}
+.electeach{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-evenly;
+}
+#Modak{
+    margin-right: 20px;
+    text-align: center;
+    font-size: 24px;
+}
+#Chakraborty{
+    margin-right: 50px;
+    text-align: center;
+    font-size: 24px;
+}
+.ID{
+    color:chartreuse;
+    text-align: center;
+    letter-spacing: 3;
+    font-weight:200;
+    text-transform: capitalize;
+}
+.decoration{
+    background-color: cadetblue;
+    justify-content: center;
+    height:30px;
+}
+.decteach{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-evenly;
+}
+#Bhattacharya{
+    margin-left: 252px;
+    text-align: center;
+    font-size: 24px;
+
+}
+.MTR{
+    color:chartreuse;
+    text-align: center;
+    letter-spacing: 3;
+    font-weight:200;
+    text-transform: capitalize;
+}
+.Mech{
+    background-color: cadetblue;
+    justify-content: center;
+    height:30px;
+}
+.mechteach{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-evenly;
+}
+#Sneha{
+    margin-right: 20px;
+    text-align: center;
+    font-size: 24px;
+    
+    
+}
+#Maiti{
+    margin-right: 50px;
+    text-align: center;
+    font-size: 24px;
+
+}
+.End{
+    height: 10px;
+    background-color: #10375C;
+}
